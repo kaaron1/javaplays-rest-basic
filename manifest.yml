@@ -1,10 +1,9 @@
 applications:
-- path: .
+- path: jpbackendmsktemplate.war
   memory: 512M
   instances: 1
   domain: mybluemix.net
   name: javaplays-rest-basic-kaaron15-1435
   host: javaplays-rest-basic-kaaron15-1435
-  disk_quota: 1024M
 
   
